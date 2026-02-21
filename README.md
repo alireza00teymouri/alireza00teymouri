@@ -1,52 +1,63 @@
-## 👋 Hi there! Welcome to my profile
+# 👋 Hi, I'm Alirazat
 
-I'm a student passionate about programming, gradually building my path in Python and software development.
-This is where I share my projects, exercises, and learning journey.
+🎓 Computer Science Student  
+🐍 Python Developer | 🤖 ML Learner | 🚀 Building Real Systems
 
+I'm actively building my path in software development by focusing on clean architecture, object-oriented design, and real-world projects.
 
----
-
-🔧 Skills (currently learning)
-
-Python (OOP, basic projects)
-
-Git & GitHub basics
-
-Problem Solving
-
-
+I believe in learning by building — not just watching tutorials.
 
 ---
 
-🎯 Current Goals
+## 🔧 What I'm Working On
 
-Build real-world projects with Python
-
-Continuous daily progress
-
-Create a strong portfolio and a solid presence on GitHub
-
-
+- 🐍 Python (OOP, modular architecture, scalable systems)
+- 🤖 Machine Learning (currently studying ML fundamentals)
+- 🧬 Genetic Algorithms & AI optimization basics
+- 🔄 Git & GitHub workflow
+- 🧠 Problem-solving & structured thinking
 
 ---
 
-📫 Get in Touch
+## 🚀 Featured Project
 
-If you want to collaborate or just chat:
-Email: (your email here)
+### 📦 Multi-Platform Telegram Bot (Python OOP)
 
+A modular Telegram bot designed with clean architecture principles:
 
-<!--
-**alireza00teymouri/alireza00teymouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- YouTube / Instagram / X downloader system  
+- Premium subscription logic (USDT-based payments)  
+- Logging & configuration system  
+- Scalable project structure  
+- Revenue-oriented design (~$200/month target)
 
-Here are some ideas to get you started:
+Built step-by-step with production mindset — not just for practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 2026 Goals
+
+- Master applied Machine Learning  
+- Build AI-powered systems  
+- Create production-ready Python software  
+- Develop a strong technical portfolio  
+- Stay consistent. Every. Single. Day.
+
+---
+
+## 📌 What You'll Find Here
+
+- Structured Python projects  
+- OOP-based systems  
+- ML experiments  
+- Architecture-focused builds  
+- My learning journey in public
+
+---
+
+## 📫 Get in Touch
+
+Open to collaboration, feedback, and learning together.
+
+📧 alirazateymoury@gmail.com
+
